@@ -3,9 +3,10 @@ abbrlink: ''
 categories:
 - 直播/點播
 date: '2026-01-01'
-tags: []
+tags:
+- 電視盒
 title: 【直播/點播】ETH TV 直播 / 点播 更新版本 ★★★★★★
-updated: '2026-01-15T01:09:20.950+08:00'
+updated: '2026-01-15T01:20:25.007+08:00'
 ---
 <p style="text-align:center"><img alt="" src="https://www.gdaily.org/wp-content/uploads/2023/03/app_icon.png" /></p>
 
