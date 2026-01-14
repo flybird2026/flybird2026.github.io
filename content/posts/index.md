@@ -4,11 +4,11 @@ categories: []
 date: ''
 tags: []
 title: 【综合】ETH TV 直播 / 点播 更新版本 ★★★★★☆
-updated: '2026-01-14T22:21:45.767+08:00'
+updated: '2026-01-14T22:30:33.820+08:00'
 ---
 <p style="text-align:center"><img alt="" src="https://www.gdaily.org/wp-content/uploads/2023/03/app_icon.png" /></p>
 
-<p style="text-align:center"><strong><span style="font-size:48px"> ETH TV  APK 直播电视</span></strong></p>
+<p style="text-align:center"><strong><span style="font-size:48px"> ETH TV  APK 直播电视</span></strong></p>
 <hr style="border-color:#f00;">
   <p>ETH TV 是一款电视盒子专用的影视APP，包含台湾第四台直播和电影点播功能，支持遥控器控制，当前部分功能免费中(后续可能会调整)
 
@@ -16,8 +16,8 @@ updated: '2026-01-14T22:21:45.767+08:00'
 
 <p style="text-align:center"><img alt="" src="https://i.ibb.co/Vq0qzTD/0000.png" /></p>
 
-<p> </p>
-<p> </p>
+<p> </p>
+<p> </p>
 
 <p><span style="color:#ffffff"><span style="font-size:36px"><span style="background-color:#c0392b">（ 软体详细内容资讯 ）</span></span></span></p>
 <ul>
@@ -28,3 +28,4 @@ updated: '2026-01-14T22:21:45.767+08:00'
 《频道密码》：6868<br />
 《直播频道密码开启方式》：直播介面收藏位置 连续点选5次确认 即跳出需要输入密码选项<br />
 《 野草助手 应用口令 》：<span style="color:#ffffff"><span style="font-size:24px"><span style="background-color:#c0392b">0C4C</span></span></span><br />
+
