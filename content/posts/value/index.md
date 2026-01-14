@@ -4,7 +4,7 @@ categories: []
 date: 福建
 tags: []
 title: 【综合】ETH TV 直播 / 点播 更新版本 ★★★★★☆
-updated: '2026-01-14T22:58:24.104+08:00'
+updated: '2026-01-14'
 ---
 <p style="text-align:center"><img alt="" src="https://www.gdaily.org/wp-content/uploads/2023/03/app_icon.png" /></p>
 
